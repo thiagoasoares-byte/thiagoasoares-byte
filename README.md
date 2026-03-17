@@ -2,7 +2,7 @@
   <h1>Hey, I'm Thiago Alves 👋</h1>
   <p>
     Back-end Developer & IT Intern at <strong>Entrepay</strong> (Fintech) · São Paulo, Brazil<br/>
-    Pursuing a degree in Systems Analysis and Development at <strong>Faculdade Impacta de Tecnologia</strong><br/>
+    Pursuing a Associate's degree with a 3.0 GPA in Systems Analysis and Development at <strong>Faculdade Impacta de Tecnologia</strong><br/>
     Focused on <strong>Cloud · DevOps · Information Security (SecOps)</strong>
   </p>
 </div>
