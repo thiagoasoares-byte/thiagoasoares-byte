@@ -3,13 +3,12 @@
   <p>
     Back-end Developer · São Paulo, Brazil<br/>
     Pursuing a degree in Systems Analysis and Development at <strong>Faculdade Impacta de Tecnologia</strong><br/>
-    Focused on <strong>Cloud · DevOps · Information Security (SecOps)</strong><br/>
     <strong>🔍 Open to Internship & Junior opportunities</strong>
-  </p>
+  </p>         
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer+🚀;Python+%26+Node.js+%2B+NestJS;AWS+%7C+Lambda+%7C+S3;Automation+%26+Microservices;SecOps+%2F+Red+Team+Enthusiast&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer+🚀;Python+%26+Node.js+%2B+NestJS;AWS+%7C+Lambda+%7C+S3;Automation+%26+Microservices&center=true&width=500&height=50" />
 </p>
 
 <p align="center">
