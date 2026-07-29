@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Thiago Alves Soares
 
@@ -77,13 +77,6 @@ I am a backend-focused developer with hands-on fintech experience, where I built
 | **International Sanctions ETL Pipeline** | Automated collection and parsing of OFAC, UN, and EU compliance data, replacing manual list checks with API-accessible data. `Python` `AWS Lambda` `S3` `MongoDB` |
 | **EDI File Automation** | Reduced manual effort in report generation and synchronization with external systems. `Python` `Selenium` |
 | **Chargeback Automation** | Contributed to moving a manual, rule-based chargeback operation into an automated flow integrated with internal APIs. `Python` `Node.js` `n8n` |
-
-## GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagoasoares-byte&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="Thiago's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoasoares-byte&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
 
 <div align="center">
 
