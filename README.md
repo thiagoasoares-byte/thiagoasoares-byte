@@ -87,6 +87,4 @@ I am a backend-focused developer with hands-on fintech experience, where I built
 
 <div align="center">
 
-### Let's build something useful.
-
 </div>
