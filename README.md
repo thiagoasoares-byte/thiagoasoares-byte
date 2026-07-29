@@ -1,123 +1,92 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=2E5395&center=true&vCenter=true&width=600&lines=Thiago+Alves+Soares;Full+Stack+Developer;Backend+%7C+Automation+%7C+Cloud;" alt="Typing SVG" />
+# Thiago Alves Soares
 
-<br/>
+### Backend-focused Full Stack Developer · Building reliable APIs, automations, and cloud workflows
 
-**Backend-focused Full Stack Developer** · São Paulo, Brazil
-Pursuing Systems Analysis & Development at **Faculdade Impacta de Tecnologia**
+São Paulo, Brazil · Systems Analysis & Development student at Faculdade Impacta de Tecnologia
 
-🔍 **Open to Junior / Internship opportunities**
+<a href="https://www.linkedin.com/in/thiago-alves-soares-453700303/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:thiagobrsoares3011@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/thiagoasoares-byte"><img src="https://img.shields.io/badge/GitHub-thiagoasoares--byte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/thiago-alves-soares-453700303/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:thiagobrsoares3011@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/thiagoasoares-byte">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Open to Junior and Internship opportunities**
 
 </div>
 
-<br/>
+## Why work with me
 
-## About me
+I am a backend-focused developer with hands-on fintech experience, where I built APIs and automation workflows for sensitive financial operations. I enjoy turning manual, error-prone processes into dependable services — from event-driven notifications to cloud-based data pipelines.
 
-- 🔭 Backend-focused developer with real production experience: built and maintained APIs for a fintech platform handling sensitive financial data
-- 🏦 **Former Full Stack Developer Intern at Entrepay (Fintech)** — Aug 2025 to Apr 2026, role concluded when the company ceased operations
-- ⚡ Practical experience with **event-driven architecture** (Kafka) and **caching** (Redis)
-- ☁️ Comfortable with **AWS (Lambda, S3)**, **Docker**, and currently expanding into **Kubernetes**
-- 🤖 Use AI tools daily in real engineering workflows — Amazon Q, Kiro IDE, and Claude — not just for chat, but for automated API testing and code review
-- 🔐 Long-term goal: transitioning into **Information Security (SecOps / Red Team)**
-- 🌎 Bilingual — native Portuguese, fluent English (C2)
+- Built and maintained APIs and microservices with **Python** and **Node.js** in a fintech environment.
+- Worked with **Kafka**, **Redis**, **AWS Lambda/S3**, Docker, and mandatory peer review before production deployments.
+- Fluent in English (C2) and Portuguese; comfortable collaborating with technical and non-technical stakeholders.
+- Exploring cloud-native systems and, long term, moving toward **Security Operations / Red Team**.
 
-<br/>
-
-## Tech stack
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-**Backend & frameworks**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-
-**Messaging, cache & data**
-
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-
-**Cloud & DevOps**
-
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white" />
-
-**Tools & AI**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-
-<br/>
-
-## Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌳 **[Myggdrasil](https://github.com/thiagoasoares-byte/myggdrasil)** | Decision tree application that gathers, checks, rates, and links each life decision or event you log, forming a personal cause-and-effect graph. JWT (RS256) auth with HttpOnly cookie sessions, N:N event relationships with self-reference and duplicate blocking, event-driven welcome/confirmation email via a Kafka consumer, React frontend consuming the API. | `NestJS` `TypeScript` `TypeORM` `MySQL` `Kafka` `React` |
-| 🎓 **[EduTrack AI](https://github.com/thiagoasoares-byte/edutrack-ai)** | Smart academic planner to organize subjects, track tasks, and visualize progress with charts. Backend on Xano, orchestrated by a custom AI agent framework that accelerates backend development. | `Python` `Streamlit` `Xano` `AI Agents` |
-| 📨 **[Apache Kafka in Practice](https://github.com/thiagoasoares-byte/apachekafka-pratica)** | Local Kafka environment spun up with Docker Compose, including a graphical interface (Kafka UI) for monitoring producers, consumers, and topics. | `Kafka` `Docker Compose` `Kafka UI` |
-| ✅ **[Pytest Pokémon Practice](https://github.com/thiagoasoares-byte/pytest.pokemon.pratica)** | Practice project with Pokémon-related calculation functions paired with a unit test suite written using the Pytest framework. | `Python` `Pytest` |
-
-**Professional projects** *(proprietary — no public repo)*
-
-- 🛡️ **International Sanctions ETL Pipeline** — Automated pipeline collecting compliance data (OFAC, UN, EU), eliminating manual list-checking for a compliance team by exposing parsed data through an API. `Python` `AWS Lambda` `S3` `MongoDB`
-- ⚙️ **EDI File Automation** — Autonomous script reducing manual effort in report generation and data sync with external systems. `Python` `Selenium`
-- 💳 **Chargeback Automation** — Supported the transformation of a manual, rule-based chargeback process into an automated flow connected to internal APIs. `Python` `Node.js` `n8n`
-
-<br/>
-
-## Professional experience
-
-**Full Stack Developer Intern · Entrepay (Fintech)**
-`Aug 2025 – Apr 2026` — *role concluded when the company ceased operations*
-> Developed and maintained RESTful APIs and microservices in Python and Node.js · Built n8n automation workflows integrating corporate systems · AWS (Lambda, S3) · Git with mandatory peer code review before every production deploy
-
-**English Teacher / Language Monitor · Wizard by Pearson**
-`Oct 2023 – Jul 2024`
-> Personalized student support · Bilingual class delivery · Technical communication for non-technical audiences
-
-<br/>
-
-## GitHub stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thiagoasoares-byte&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoasoares-byte&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoasoares-byte&theme=radical" />
-</p>
+## Core toolkit
 
 <div align="center">
-  <sub>Always building. Always learning. 🚀</sub>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<br />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+</div>
+
+<details>
+<summary><b>More technologies</b></summary>
+<br />
+
+- **Data:** MySQL, MongoDB, TypeORM
+- **Cloud & delivery:** AWS Lambda, Amazon S3, Kubernetes (learning), CI/CD, Git
+- **Automation & quality:** n8n, Selenium, Pytest, Postman
+- **Frontend:** JavaScript, HTML, CSS, Streamlit
+
+</details>
+
+## Selected work
+
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [**Myggdrasil**](https://github.com/thiagoasoares-byte/myggdrasil) | A personal cause-and-effect graph for logging decisions and events. Includes secure RS256/HttpOnly session authentication, self-referencing N:N relationships, duplicate prevention, and event-driven email delivery. | NestJS · TypeScript · MySQL · Kafka · React |
+| [**EduTrack AI**](https://github.com/thiagoasoares-byte/edutrack-ai) | An academic planner that organizes subjects and tasks while visualizing progress. Built around a custom AI-agent workflow to speed up backend delivery. | Python · Streamlit · Xano · AI agents |
+| [**Kafka in Practice**](https://github.com/thiagoasoares-byte/apachekafka-pratica) | A reproducible local Kafka environment with Docker Compose and Kafka UI to observe topics, producers, and consumers. | Kafka · Docker Compose · Kafka UI |
+| [**Pytest Pokémon Practice**](https://github.com/thiagoasoares-byte/pytest.pokemon.pratica) | A focused Python unit-testing project that pairs calculation rules with an automated Pytest suite. | Python · Pytest |
+
+## Production experience
+
+### Full Stack Developer Intern · Entrepay (Fintech)
+`Aug 2025 – Apr 2026` · Role ended when the company ceased operations
+
+- Developed and maintained REST APIs and microservices in Python and Node.js.
+- Automated internal workflows with n8n and integrated corporate systems.
+- Used AWS Lambda and S3 in production, working in a Git workflow with peer review before every deployment.
+
+### Selected proprietary work
+
+| Initiative | Impact and technologies |
+| --- | --- |
+| **International Sanctions ETL Pipeline** | Automated collection and parsing of OFAC, UN, and EU compliance data, replacing manual list checks with API-accessible data. `Python` `AWS Lambda` `S3` `MongoDB` |
+| **EDI File Automation** | Reduced manual effort in report generation and synchronization with external systems. `Python` `Selenium` |
+| **Chargeback Automation** | Contributed to moving a manual, rule-based chargeback operation into an automated flow integrated with internal APIs. `Python` `Node.js` `n8n` |
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagoasoares-byte&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="Thiago's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoasoares-byte&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+
+### Let's build something useful.
+
 </div>
