@@ -9,7 +9,6 @@ Experiência de produção em Fintech · Desenvolvimento orientado a testes · P
 📍 São Paulo, Brasil · 🌐 [portfolio-thiagoalves.vercel.app](https://portfolio-thiagoalves.vercel.app/)
 
 ![Fintech](https://img.shields.io/badge/Fintech-Experi%C3%AAncia_em_Produ%C3%A7%C3%A3o-0f0f0e?style=flat-square)
-![Cobertura de testes](https://img.shields.io/badge/Cobertura_de_Testes-~92%25-0f0f0e?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-0f0f0e?style=flat-square)
 ![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-C2_Fluente-0f0f0e?style=flat-square)
 
