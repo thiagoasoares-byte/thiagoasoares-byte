@@ -102,18 +102,8 @@ Experiência de produção em Fintech · Desenvolvimento orientado a testes · P
 
 <br>
 
-## 📊 Métricas do GitHub
-
-<div align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thiagoasoares-byte&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=thiagoasoares-byte&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)
-</div>
-
-<div align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thiagoasoares-byte&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=thiagoasoares-  byte&layout=donut&langs_count=4&theme=transparent)
-</div>
-
-<br>
+📊 Métricas do GitHub
+<div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=thiagoasoares-byte&show_icons=true&rank_icon=percentile&theme=dark&hide_border=true&bg_color=0f0f0e&title_color=ffffff&icon_color=82796c&text_color=e1ded7" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=thiagoasoares-byte&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0e&title_color=ffffff&text_color=e1ded7" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com/?user=thiagoasoares-byte&theme=dark&hide_border=true&background=0f0f0e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" /> </div> <br>
 
 ## 📫 Contato
 
