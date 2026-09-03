@@ -15,7 +15,7 @@ Experiência de produção em Fintech · Desenvolvimento orientado a testes · P
 </div>
 
 <br>
-## 🚀 Projetos em destaque
+🚀 Projetos em destaque
 
 <table>
   <tr>
