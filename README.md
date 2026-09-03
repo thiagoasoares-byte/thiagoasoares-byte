@@ -15,50 +15,6 @@ Experiência de produção em Fintech · Desenvolvimento orientado a testes · P
 </div>
 
 <br>
-
-## 🛠️ Habilidades técnicas
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-0f0f0e?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f0f0e?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-0f0f0e?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f0f0e?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0f0f0e?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0e?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0f0f0e?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0f0f0e?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0f0f0e?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0f0f0e?style=for-the-badge&logo=css3&logoColor=white)
-
-**Dados e Cache**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f0e?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0f0f0e?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f0f0e?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-0f0f0e?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud e DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-0f0f0e?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0f0f0e?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0f0f0e?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f0f0e?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Qualidade e Automação**
-
-![Pytest](https://img.shields.io/badge/Pytest-0f0f0e?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-0f0f0e?style=for-the-badge&logo=selenium&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0f0f0e?style=for-the-badge&logo=apachekafka&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-0f0f0e?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Metodologias:** Agile/Scrum · Git · Pull Request com revisão obrigatória · POO
-
-<br>
-
 ## 🚀 Projetos em destaque
 
 <table>
